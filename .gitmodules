@@ -1,6 +1,6 @@
 [submodule "dalybms"]
 	path = dalybms
-	url = https://github.com/MindFreeze/dalybms
+	url = https://github.com/km18-team/dalybms
 [submodule "hassio-axpert"]
 	path = hassio-axpert
 	url = https://github.com/MindFreeze/hassio-axpert
